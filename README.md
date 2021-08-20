@@ -1,0 +1,2 @@
+# NumberGuessingGame
+This is c based project where I write a program that generates a random number and ask the player to guess it. If the player's guess is higher than the actual number, the program display "Lower number please". Similarly if the player's guess is low than the actual number, the program display "Higher number please". When the user guess the correct number the program display the number of guess the player used to arrive at the correct number.
